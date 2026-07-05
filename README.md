@@ -1,7 +1,5 @@
 # Hi there 👋
 
-[![DiCR77's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiCR77&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🚀 About Me
 Administrateur Système & Réseaux, passionné par la Cybersécurité et le Cloud.
 
