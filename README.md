@@ -9,8 +9,9 @@ System & Network Administrator passionate about Cybersecurity and the Cloud.
 * **Cyber Foundations:** SOC analysis basics, hands-on self-training in Pentest & Blue Team (TryHackMe/HackTheBox).
 
 ## ⚡ Tech Interests
-* 🛡️ Cloud Security (Azure SC-900)
-* ⚙️ PowerShell Automation
+* 🛡️ Cybersecurity & Defensive Operations
+* 🏗️ System Architecture & Administration
+* 🔭 Exploring Emerging Technologies
 * 🔍 Log Analysis & Threat Hunting (SOC)
 
 ## 🛠 What I'm Working On
