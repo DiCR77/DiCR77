@@ -1,13 +1,17 @@
 # Hi there 👋
 
 ## 🚀 About Me
-Administrateur Système & Réseaux, passionné par la Cybersécurité et le Cloud.
+System & Network Administrator passionate about Cybersecurity and the Cloud.
 
-## 🛠 What I'm Working On
-* **[Active-Directory-Security-Auditor](https://github.com/DiCR77/Active-Directory-Security-Auditor)** : Script PowerShell d'audit de sécurité et détection de menaces AD.
+## 🛠 Skills & Expertise
+* **Cloud & Admin:** Expertise in Azure AD (Entra ID), Intune, M365, and Active Directory environments.
+* **Systems & Networking:** Linux & Windows Server administration, network configuration (Switch/Wi-Fi), and N1/N2 support.
+* **Cyber Foundations:** SOC analysis basics, hands-on self-training in Pentest & Blue Team (TryHackMe/HackTheBox).
 
 ## ⚡ Tech Interests
-* 🛡️ Cloud Security & Identity (Azure SC-900)
-* 🐧 Linux / Windows Administration
+* 🛡️ Cloud Security (Azure SC-900)
 * ⚙️ PowerShell Automation
-* 🔍 Log Analysis & Threat Hunting
+* 🔍 Log Analysis & Threat Hunting (SOC)
+
+## 🛠 What I'm Working On
+* **[Active-Directory-Security-Auditor](https://github.com/DiCR77/Active-Directory-Security-Auditor)** : PowerShell script for security auditing and AD threat detection.
