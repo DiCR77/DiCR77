@@ -1,21 +1,15 @@
-Salut ! 👋 Moi c'est Diae
+# Hi there 👋
 
-Administrateur Système, Réseaux & passionné par la Cybersécurité et le Cloud.
+[![DiCR77's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiCR77&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Je transforme la complexité technique en solutions automatisées et sécurisées.
+## 🚀 About Me
+Administrateur Système & Réseaux, passionné par la Cybersécurité et le Cloud.
 
-🛠 Mon Stack Technique
+## 🛠 What I'm Working On
+* **[Active-Directory-Security-Auditor](https://github.com/DiCR77/Active-Directory-Security-Auditor)** : Script PowerShell d'audit de sécurité et détection de menaces AD.
 
-Administration Système & Réseaux : Windows Server, Active Directory, Linux.
-
-Cybersécurité & Audit : Durcissement de sécurité, Analyse de logs, PowerShell (Expertise Audit AD).
-
-Cloud & Identité : Microsoft Azure (Certifié SC-900).
-
-🚀 Projet en vedette
-
-Active-Directory-Security-Auditor : Outil d'automatisation pour l'audit complet, la détection des menaces et la sécurisation des domaines Active Directory.
-
-📬 Contact
-
-[https://www.linkedin.com/in/diaedarraz/]
+## ⚡ Tech Interests
+* 🛡️ Cloud Security & Identity (Azure SC-900)
+* 🐧 Linux / Windows Administration
+* ⚙️ PowerShell Automation
+* 🔍 Log Analysis & Threat Hunting
