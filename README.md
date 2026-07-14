@@ -14,5 +14,3 @@ System & Network Administrator passionate about Cybersecurity and the Cloud.
 * 🔭 Exploring Emerging Technologies
 * 🔍 Log Analysis & Threat Hunting (SOC)
 
-## 🛠 What I'm Working On
-* **[Active-Directory-Security-Auditor](https://github.com/DiCR77/Active-Directory-Security-Auditor)** : PowerShell script for security auditing and AD threat detection.
